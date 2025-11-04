@@ -97,6 +97,22 @@ Once deployed, the app will output the **App ID** and **contract address** for N
 
 ---
 
+## 🧾 **Deployed Application Info**
+
+| Network | Application ID |
+| ------- | -------------- |
+| Testnet | **748999956**  |
+
+> You can interact with the deployed contract using this App ID via AlgoExplorer or SDK scripts.
+
+Example:
+
+```python
+APP_ID = 748999956
+```
+
+---
+
 ## 💫 **About Algorand**
 
 Algorand is a **carbon-neutral Layer-1 blockchain** focused on speed, security, and sustainability.
